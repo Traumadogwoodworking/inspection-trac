@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[93298,["/_next/static/chunks/0vy4p42ffljrp.js","/_next/static/chunks/10w8v0qv3n6ty.js","/_next/static/chunks/0outk-qntazx4.js","/_next/static/chunks/0dk4f6y3q30m_.js","/_next/static/chunks/0n4z.7yu76je-.js","/_next/static/chunks/0ukt2_g5ioe_b.js","/_next/static/chunks/0b79vb_6zodq-.js"],"LoginRedirectClient"]
+3:I[97367,["/_next/static/chunks/0vy4p42ffljrp.js","/_next/static/chunks/10w8v0qv3n6ty.js","/_next/static/chunks/0outk-qntazx4.js","/_next/static/chunks/0dk4f6y3q30m_.js","/_next/static/chunks/0n4z.7yu76je-.js","/_next/static/chunks/0ukt2_g5ioe_b.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0b79vb_6zodq-.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hE82igwp5DPlhLhsYJGbo"}
+5:null
