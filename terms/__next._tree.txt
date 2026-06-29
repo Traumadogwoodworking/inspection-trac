@@ -2,4 +2,4 @@
 :HL["/_next/static/chunks/09~_5_jyp2mq6.css","style"]
 :HC["/",""]
 :HL["/media/inspection-trac-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"fZAj2IP_nkVAE11e9J_iX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6U-uUizrw5YB78f3WLbZI"}
