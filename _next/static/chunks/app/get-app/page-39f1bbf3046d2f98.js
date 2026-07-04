@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4003],{49653:(e,n,s)=>{Promise.resolve().then(s.bind(s,57943))},57943:(e,n,s)=>{"use strict";s.r(n),s.d(n,{default:()=>u});var t=s(12115);function u(){return(0,t.useEffect)(()=>{window.location.replace("/#get-app")},[]),null}}},e=>{e.O(0,[8441,3794,7358],()=>e(e.s=49653)),_N_E=e.O()}]);
