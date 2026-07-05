@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[61304,[],"ClientPageRoot"]
-3:I[95165,["4016","static/chunks/28abd7f5-db4fd9cd5b0a0549.js","6815","static/chunks/6815-71da2b5da0e7cc56.js","4643","static/chunks/4643-86c91d93c67b2812.js","3617","static/chunks/3617-b037625bd8adc95a.js","7393","static/chunks/7393-d078883bea5dc6bb.js","174","static/chunks/174-3e4acfa1627427fb.js","3740","static/chunks/3740-a30f5f31d575a08d.js","8425","static/chunks/app/organizations/page-f6bb5e5a025a669d.js"],"default"]
-6:I[90484,[],"OutletBoundary"]
+2:I[47257,["/_next/static/chunks/1k4bg9rle6hhd.js","/_next/static/chunks/2sc2mljgxh1-l.js","/_next/static/chunks/13lub2ibp0uyk.js","/_next/static/chunks/1-8s9_t85wwr4.js","/_next/static/chunks/0rjo0z36vq_15.js","/_next/static/chunks/1591dnxzmf4cg.js"],"ClientPageRoot"]
+3:I[17677,["/_next/static/chunks/1k4bg9rle6hhd.js","/_next/static/chunks/2sc2mljgxh1-l.js","/_next/static/chunks/13lub2ibp0uyk.js","/_next/static/chunks/1-8s9_t85wwr4.js","/_next/static/chunks/0rjo0z36vq_15.js","/_next/static/chunks/1591dnxzmf4cg.js","/_next/static/chunks/1ssysa45tpmn_.js"],"default"]
+6:I[97367,["/_next/static/chunks/1k4bg9rle6hhd.js","/_next/static/chunks/2sc2mljgxh1-l.js","/_next/static/chunks/13lub2ibp0uyk.js","/_next/static/chunks/1-8s9_t85wwr4.js","/_next/static/chunks/0rjo0z36vq_15.js","/_next/static/chunks/1591dnxzmf4cg.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"AsDSpLaMcd8tw1-r0S6Qo"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/1ssysa45tpmn_.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"180LTC-63dMgbc35XqYuZ"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
