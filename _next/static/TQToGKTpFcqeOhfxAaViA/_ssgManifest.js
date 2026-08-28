@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fanalytics\u002F[dashboardSlug]","\u002Fjoin\u002F[facilitySlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
